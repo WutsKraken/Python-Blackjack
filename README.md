@@ -1,2 +1,5 @@
 # Python-Blackjack
-Attempt at Blackjack in python
+
+My attempt at creating a Blackjack program while learning Python
+
+Simply run the program and follow what prompt tells you
